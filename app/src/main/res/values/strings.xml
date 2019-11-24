@@ -1,3 +1,11 @@
-<resources>
-    <string name="app_name">Submision2</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_name">StreamPlus</string>
+    <string name="tittle_tab1">Movies</string>
+    <string name="tittle_tab2">TV Shows</string>
+
+
+    <string name="content_tab1">Welcome Movie</string>
+    <string name="content_tab2">Welcome TV Show</string>
 </resources>
