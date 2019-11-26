@@ -1,10 +1,11 @@
-package com.example.submision2;
+package com.example.submision2.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
 
 import android.os.Bundle;
 
+import com.example.submision2.R;
 import com.example.submision2.adapter.SectionPagerAdapter;
 import com.google.android.material.tabs.TabLayout;
 
