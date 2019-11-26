@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/ItemMovie"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/itemHeight"
+    android:padding="@dimen/paddingSisi"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ImageView
+        android:id="@+id/ivPItemPoster"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:src="@android:color/darker_gray"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tvItemJudul"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HarryHarryH arry tPotte rerPotter"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:maxEms="25"
+                android:ellipsize="end"/>
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvItemRilis"
+            android:layout_marginTop="2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:textStyle="italic"
+            android:textColor="@color/gray"
+            android:text="24 March 2010"/>
+
+        <LinearLayout
+            android:layout_marginTop="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tvItemDurasi"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="10sp"
+                android:textColor="@color/gray"
+                android:text="2h 55min"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:layout_marginEnd="5dp"
+                android:textSize="10sp"
+                android:textColor="@color/gray"
+                android:text="|"/>
+
+            <TextView
+                android:id="@+id/tvItemGenre"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="10sp"
+                android:textColor="@color/gray"
+                android:text="Crime, Drama"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="15dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_star_black_30dp"/>
+            <TextView
+                android:id="@+id/tvItemRate"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="8.2"
+                android:textColor="@color/black"
+                android:textSize="12sp"/>
+            <TextView
+                android:id="@+id/tvItemRateCount"
+                android:layout_marginStart="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="(2.156.667)"
+                android:textSize="12sp"
+                android:textStyle="italic"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Short Description :"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"/>
+            <TextView
+                android:id="@+id/tvItemShortDesc"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:textColor="@color/black"
+                android:maxLength="150"
+                android:text="Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."/>
+
+    </LinearLayout>
+
+</LinearLayout>

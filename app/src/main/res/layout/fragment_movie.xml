@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/paddingSisi"
     tools:context=".fragment.MovieFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvMovie"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/content_tab1" />
+        android:layout_height="wrap_content"
+        tools:listitem="@layout/item_movie"/>
 
-</FrameLayout>
+
+
+</LinearLayout>
