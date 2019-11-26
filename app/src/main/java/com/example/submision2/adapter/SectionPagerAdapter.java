@@ -48,6 +48,7 @@ public class SectionPagerAdapter extends FragmentPagerAdapter {
 
     @Nullable
     public CharSequence getPageTitle(int position){
+
         return mContext.getResources().getString(tab_titles[position]);
     }
 }
