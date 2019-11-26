@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StreamPlus</string>
+    <string name="tittle_tab1">Film</string>
+    <string name="tittle_tab2">Acara TV</string>
+
+
+    <string name="content_tab1">Selamat Datang di Film</string>
+    <string name="content_tab2">Selamat Datang di Acara TV</string>
+
+
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="duration">Durasi</string>
+    <string name="genre">Genre</string>
+    <string name="rating">Peringkat</string>
+    <string name="short_desc">Deskripsi Singkat</string>
+    <string name="synopsis">Ringkasan</string>
+    <string name="episodes">Episode</string>
+
+    <string name="inggris">Inggris</string>
+    <string name="spain">Spanyol</string>
+    <string name="indo">Indonesia</string>
+</resources>

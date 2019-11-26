@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.submision2.activity.MainActivity">
+
+    <item
+        android:id="@+id/LangInggris"
+        app:showAsAction="never"
+        android:title="@string/inggris"
+        android:icon="@drawable/ic_more_vert_black_24dp"/>
+
+    <item
+        android:id="@+id/LangIndo"
+        app:showAsAction="never"
+        android:title="@string/indo"
+        android:icon="@drawable/ic_more_vert_black_24dp"/>
+
+    <item
+        android:id="@+id/LangSpain"
+        app:showAsAction="never"
+        android:title="@string/spain"
+        android:icon="@drawable/ic_more_vert_black_24dp"/>
+
+</menu>

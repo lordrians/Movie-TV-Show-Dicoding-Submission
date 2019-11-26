@@ -27,7 +27,6 @@ public class MovieFragment extends Fragment {
 
     private ArrayList<Movie> listMovie = new ArrayList<>();
     RecyclerView adapter;
-    ViewHolder holder;
     public MovieFragment() {
         // Required empty public constructor
     }
@@ -52,10 +51,10 @@ public class MovieFragment extends Fragment {
 
 
 
-    static class ViewHolder {
-        private RecyclerView rvMovie;
-        void ViewHolder(View view){
-            rvMovie = view.findViewById(R.id.rvMovie);
-        }
-    }
+//    static class ViewHolder {
+//        private RecyclerView rvMovie;
+//        void ViewHolder(View view){
+//            rvMovie = view.findViewById(R.id.rvMovie);
+//        }
+//    }
 }

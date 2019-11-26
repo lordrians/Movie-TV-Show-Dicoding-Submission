@@ -7,4 +7,19 @@
 
     <string name="content_tab1">Welcome Movie</string>
     <string name="content_tab2">Welcome TV Show</string>
+
+
+    <string name="release_date">Release Date</string>
+    <string name="duration">Duration</string>
+    <string name="genre">Genres</string>
+    <string name="rating">Rating</string>
+    <string name="short_desc">Short Description</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="episodes">Episodes</string>
+
+    <string name="inggris">English</string>
+    <string name="spain">Spain</string>
+    <string name="indo">Indonesia</string>
+
+
 </resources>
