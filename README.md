@@ -22,4 +22,4 @@ Technology i have used in this app :
   
 [Screenshoot]
 ![Image of Yaktocat]
-(https://drive.google.com/file/d/1r_mY2Z38DksIZnOUexrJ9a5RLRhXVO2Q/view?usp=sharing)
+(https://drive.google.com/file/d/1r_mY2Z38DksIZnOUexrJ9a5RLRhXVO2Q/view)
