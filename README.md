@@ -23,4 +23,6 @@ Technology i have used in this app :
 [Screenshoot]
 
 
-![Image of Yaktocat](https://drive.google.com/uc?export=view&id=1r_mY2Z38DksIZnOUexrJ9a5RLRhXVO2Q)  ![Image  Yaktocat](https://drive.google.com/uc?export=view&id=1mi-eKQ61_lJ-IgZP78Pc2MMQ9i9grTLW)
+![Movie Fragment](https://drive.google.com/uc?export=view&id=1r_mY2Z38DksIZnOUexrJ9a5RLRhXVO2Q)  ![Fragment TV Show](https://drive.google.com/uc?export=view&id=1mi-eKQ61_lJ-IgZP78Pc2MMQ9i9grTLW)
+
+![Detail Item](https://drive.google.com/uc?export=view&id=1F-NSy0gFXHo_jTpF_UUkdd90meLryHzZ)
