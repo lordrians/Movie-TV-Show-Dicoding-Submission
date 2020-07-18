@@ -23,6 +23,6 @@ Technology i have used in this app :
 [Screenshoot]
 
 
-![Movie Fragment](https://drive.google.com/uc?export=view&id=1r_mY2Z38DksIZnOUexrJ9a5RLRhXVO2Q)  ![Fragment TV Show](https://drive.google.com/uc?export=view&id=1mi-eKQ61_lJ-IgZP78Pc2MMQ9i9grTLW)
+<img src="/app/ss/ss_movie.png" width="250" height="400"> <img src="/app/ss/ss_moviedetail.png" width="250" height="400">
 
-![Detail Item](https://drive.google.com/uc?export=view&id=1F-NSy0gFXHo_jTpF_UUkdd90meLryHzZ)
+<img src="/app/ss/ss_tvshow.png" width="250" height="400"> <img src="/app/ss/ss_tvdetail.png" width="250" height="400">
